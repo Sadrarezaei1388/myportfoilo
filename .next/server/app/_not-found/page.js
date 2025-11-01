@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__3fea480a._.js")
+R.c("server/chunks/ssr/eda64_next_dist_bafc48ae._.js")
+R.c("server/chunks/ssr/eda64_next_dist_esm_build_templates_app-page_f88135c9.js")
+R.c("server/chunks/ssr/[root-of-the-server]__6a874419._.js")
+R.c("server/chunks/ssr/eda64_next_dist_285e4d1b._.js")
+R.c("server/chunks/ssr/eda64_next_dist_0787ea07._.js")
+R.c("server/chunks/ssr/OneDrive_Desktop_sadra portfoilo_idk_b6aa1e31._.js")
+R.c("server/chunks/ssr/eda64_next_dist_client_components_f4fa8173._.js")
+R.c("server/chunks/ssr/eda64_next_dist_client_components_builtin_forbidden_4f66e2f1.js")
+R.c("server/chunks/ssr/b1735_sadra portfoilo_idk__next-internal_server_app__not-found_page_actions_7d418d0d.js")
+R.m(12353)
+module.exports=R.m(12353).exports

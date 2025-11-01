@@ -1,0 +1,25 @@
+[00:00:03.306] Server  LOG      ✓ Ready in 1974ms
+[00:00:06.947] Server  LOG      ○ Compiling / ...
+[00:01:15.110] Browser ERROR   ./OneDrive/Desktop/sadra portfoilo/idk/app/layout.tsx:22:10
+Parsing ecmascript source code failed
+  20 |           disableOnTouch={true}
+  21 |           rippleDurationMs={520
+> 22 |         />
+     |          ^
+  23 |
+  24 |         <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
+  25 |           <main id="main">{children}</main>
+
+Expression expected
+[00:01:15.110] Browser ERROR   ./OneDrive/Desktop/sadra portfoilo/idk/app/layout.tsx:27:8
+Parsing ecmascript source code failed
+  25 |           <main id="main">{children}</main>
+  26 |         </ThemeProvider>
+> 27 |       </body>
+     |        ^^^^^^
+  28 |     </html>
+  29 |   );
+  30 | }
+
+Unterminated regexp literal
+[00:01:16.233] Server  LOG      ✓ Compiled in 220ms

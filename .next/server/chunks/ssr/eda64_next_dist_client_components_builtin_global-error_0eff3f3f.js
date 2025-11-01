@@ -1,0 +1,3 @@
+module.exports=[65616,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(44132);a.n(d("[project]/OneDrive/Desktop/sadra portfoilo/idk/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},91337,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(44132);a.n(d("[project]/OneDrive/Desktop/sadra portfoilo/idk/node_modules/next/dist/client/components/builtin/global-error.js"))},12990,a=>{"use strict";a.i(65616);var b=a.i(91337);a.n(b)}];
+
+//# sourceMappingURL=eda64_next_dist_client_components_builtin_global-error_0eff3f3f.js.map
