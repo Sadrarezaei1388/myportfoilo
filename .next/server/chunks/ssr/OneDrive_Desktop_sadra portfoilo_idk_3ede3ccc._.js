@@ -1,3 +1,0 @@
-module.exports=[59131,(a,b,c)=>{"use strict";b.exports=a.r(2575).vendored.contexts.AppRouterContext},74142,(a,b,c)=>{"use strict";b.exports=a.r(2575).vendored["react-ssr"].ReactServerDOMTurbopackClient},52281,(a,b,c)=>{"use strict";b.exports=a.r(2575).vendored["react-ssr"].ReactDOM},30179,a=>{a.v("/_next/static/media/IMG_0194 (1).309cdf67.jpeg")}];
-
-//# sourceMappingURL=OneDrive_Desktop_sadra%20portfoilo_idk_3ede3ccc._.js.map
