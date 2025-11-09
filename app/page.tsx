@@ -1,3 +1,4 @@
+// app/page.tsx
 "use client";
 
 import NavBar from "@/components/NavBar";
@@ -28,20 +29,31 @@ export default function HomePage() {
       >
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           <ProjectCard
-            title="Fainzi – Price Comparison"
-            description="High-speed Next.js app with smart scraping and real-time search."
-            tags={["Next.js", "TypeScript", "Tailwind", "Playwright"]}
+            title="Marketly — Forex AI"
+            description="AI-driven advisor that ranks forex pairs and suggests the best buys."
+            tags={["Next.js", "TypeScript", "Tailwind", "Framer Motion", "AI"]}
+            imageUrl="/still-life-arrangement-with-cryptocurrency.jpg"
+            href="/projects/marketly" // ← wired to the case-study page
           />
-          <ProjectCard
-            title="Construction Dashboard"
-            description="Data-rich dashboards for site progress & QA, with offline modes."
-            tags={["React", "MUI", "PWA", "Framer Motion"]}
-          />
-          <ProjectCard
-            title="Energy Insights"
-            description="Interactive energy analytics, charts and storytelling animations."
-            tags={["Vite", "D3", "Framer Motion"]}
-          />
+
+<ProjectCard
+  title="Restaurant Platform"
+  description="Full-stack ordering system with admin panel, inventory, and analytics."
+  tags={["Next.js","TypeScript","Tailwind","Prisma","NextAuth"]}
+  imageUrl="/young-waiter-wearing-protective-face-mask-while-serving-food-his-guests-restaurant.jpg"
+  href="/projects/restaurant"
+/>
+
+
+    <ProjectCard
+      title="Fainzi – Price Comparison"
+      description="High-speed Next.js app with smart scraping and real-time search."
+      tags={["Next.js", "TypeScript", "Tailwind", "Playwright"]}
+  imageUrl="happy-couple-looking-big-shop-display.jpg"
+
+  href="/projects/fainzi"
+
+    />
         </div>
 
         <Marquee
