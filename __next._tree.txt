@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[41293,["/myportfoilo/_next/static/chunks/ebf51ca741dce3a6.js","/myportfoilo/_next/static/chunks/8aec0e92faf4f12c.js"],"ViewportBoundary"]
+4:I[41293,["/myportfoilo/_next/static/chunks/ebf51ca741dce3a6.js","/myportfoilo/_next/static/chunks/8aec0e92faf4f12c.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+:HL["/myportfoilo/_next/static/chunks/494434e2e7f7f4de.css","style"]
+0:{"buildId":"QTtlmVQaQIYSP-hE-Edr4","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Sadra | Full-Stack Dev"}],["$","meta","1",{"name":"description","content":"Premium interactive portfolio built with Next.js 14"}]]
