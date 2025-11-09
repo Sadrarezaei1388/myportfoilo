@@ -33,7 +33,7 @@ export default function HomePage() {
             description="AI-driven advisor that ranks forex pairs and suggests the best buys."
             tags={["Next.js", "TypeScript", "Tailwind", "Framer Motion", "AI"]}
             imageUrl="/still-life-arrangement-with-cryptocurrency.jpg"
-            href="/projects/marketly" // ← wired to the case-study page
+            href="/projects/marketly/" // ← wired to the case-study page
           />
 
 <ProjectCard
@@ -41,7 +41,7 @@ export default function HomePage() {
   description="Full-stack ordering system with admin panel, inventory, and analytics."
   tags={["Next.js","TypeScript","Tailwind","Prisma","NextAuth"]}
   imageUrl="/young-waiter-wearing-protective-face-mask-while-serving-food-his-guests-restaurant.jpg"
-  href="/projects/restaurant"
+  href="/projects/restaurant/"
 />
 
 
@@ -51,7 +51,7 @@ export default function HomePage() {
       tags={["Next.js", "TypeScript", "Tailwind", "Playwright"]}
   imageUrl="happy-couple-looking-big-shop-display.jpg"
 
-  href="/projects/fainzi"
+  href="/projects/fainzi/"
 
     />
         </div>
