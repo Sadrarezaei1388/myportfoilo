@@ -33,27 +33,24 @@ export default function HomePage() {
             description="AI-driven advisor that ranks forex pairs and suggests the best buys."
             tags={["Next.js", "TypeScript", "Tailwind", "Framer Motion", "AI"]}
             imageUrl="/still-life-arrangement-with-cryptocurrency.jpg"
-            href="/projects/marketly/" // ← wired to the case-study page
+            href="/projects/marketly/" // ← case-study page
           />
 
-<ProjectCard
-  title="Restaurant Platform"
-  description="Full-stack ordering system with admin panel, inventory, and analytics."
-  tags={["Next.js","TypeScript","Tailwind","Prisma","NextAuth"]}
-  imageUrl="/young-waiter-wearing-protective-face-mask-while-serving-food-his-guests-restaurant.jpg"
-  href="/projects/restaurant/"
-/>
+          <ProjectCard
+            title="Restaurant Platform"
+            description="Full-stack ordering system with admin panel, inventory, and analytics."
+            tags={["Next.js", "TypeScript", "Tailwind", "Prisma", "NextAuth"]}
+            imageUrl="/young-waiter-wearing-protective-face-mask-while-serving-food-his-guests-restaurant.jpg"
+            href="/projects/restaurant/"
+          />
 
-
-    <ProjectCard
-      title="Fainzi – Price Comparison"
-      description="High-speed Next.js app with smart scraping and real-time search."
-      tags={["Next.js", "TypeScript", "Tailwind", "Playwright"]}
-  imageUrl="happy-couple-looking-big-shop-display.jpg"
-
-  href="/projects/fainzi/"
-
-    />
+          <ProjectCard
+            title="Fainzi – Price Comparison"
+            description="High-speed Next.js app with smart scraping and real-time search."
+            tags={["Next.js", "TypeScript", "Tailwind", "Playwright"]}
+            imageUrl="/happy-couple-looking-big-shop-display.jpg"  // ← با / شروع شد
+            href="/projects/fainzi/"
+          />
         </div>
 
         <Marquee
